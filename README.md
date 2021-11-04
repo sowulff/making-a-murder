@@ -1,3 +1,4 @@
+![Nemo swimming](<imghttps://media.giphy.com/media/11OoTctG5cjn0s/giphy.gif)
 # Finding Nemo
 
 Welcome to our SQLite mystery!
