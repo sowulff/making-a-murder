@@ -11,3 +11,15 @@ In order to solve this mystery you need to do the following:
 1. Download the application Tableplus if you haven't already.
 2. Download the file finding-nemo.sqlite3.
 3. Open the file on Tableplus and start digging for clues using SQL queries. :mag_right:
+
+
+## Solution
+When you think you've found the solution, insert this with your answer to SQL:
+
+```sql
+INSERT INTO solutions
+VALUES ('places.name', 'places.type');
+```
+
+Replace places.name and places.type with your solution. Update and check the solutions table to see if you've got the right answer!
+
