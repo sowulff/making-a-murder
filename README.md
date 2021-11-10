@@ -21,5 +21,6 @@ INSERT INTO solution
 VALUES ('places.name', 'places.type');
 ```
 
-Replace places.name and places.type with your solution. Update and check the solutions table to see if you've got the right answer!
+Replace places.name and places.type with your solution. Update and check the solutions table to see if you've got the right answer! The solution is case sensitive so remember to start with an uppercase for the name.
+
 
