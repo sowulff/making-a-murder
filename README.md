@@ -17,7 +17,7 @@ In order to solve this mystery you need to do the following:
 When you think you've found the solution, insert this with your answer to SQL:
 
 ```sql
-INSERT INTO solutions
+INSERT INTO solution
 VALUES ('places.name', 'places.type');
 ```
 
